@@ -1,1 +1,1 @@
-# asteroid_game
+# asteroids_game
